@@ -1,7 +1,7 @@
 # DynamicUniversalClient
 If you ever wanted to truly understand, manage, and control your CORBA infrastructure, then this is the application for you!  
 
-It is the SoapUI equivalent for CORBA.  Using the application, you'll be able to acquire CORBA objects, invoke requests against them, visualize return values, and a whole lot more!  Here's a [simple video of the Dynamic Universal Client in action](https://youtu.be/EXURgWWZqgc)!
+It is the SoapUI equivalent for CORBA.  Using the application, you'll be able to acquire CORBA objects, invoke requests against them, visualize return values, and a whole lot more!  Here's a [simple video of the Dynamic Universal Client](https://youtu.be/EXURgWWZqgc) in action!
 
 This project has been divided into several applications:
 * **DynamicUniversalClient (DUC)** - This application is a UI that provides users the ability to acquire CORBA objects, inspect them, invoke requests against them, visualize return values, and a whole lot more!
