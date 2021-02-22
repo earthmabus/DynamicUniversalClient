@@ -9,3 +9,5 @@ This project has been divided into several applications:
 * InterfaceRepositoryToCIM - This application is used to transfer the contents of an Interface Repository into a CIM.  An alternative approach to populating the CIM would be to build an IDL parser.
 * ObjectWrapper (OW) - This application allows any CORBA object encountered to be decorated with another CORBA object.  The decorator intercepts all incoming requests to the CORBA object so that it can be analyzed.
 * ObjectWrapperDataAndStatisticsGatherer (OWDSG) - This application collects data and generate statistics for wrapped CORBA objects.
+
+Here's a simple video (https://youtu.be/EXURgWWZqgc) of the Dynamic Universal Client in action!
